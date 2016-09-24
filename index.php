@@ -3,7 +3,7 @@
 	<head>
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/hoja1.css">
-		<title>Ejercicio-Clase2</title>
+		-
 	</head>
 	<body>
 	<div class="row" id="color">
